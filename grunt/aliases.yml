@@ -14,4 +14,4 @@ test:
   description: Run the tests (non-functional)
   tasks:
   - 'shell:mongo'
-  - 'tests'
+  - 'includes'
