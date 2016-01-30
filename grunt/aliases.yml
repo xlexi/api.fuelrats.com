@@ -25,4 +25,4 @@ test:
   description: Run the tests (non-functional)
   tasks:
   - 'mongo'
-  - 'tests'
+  - 'includes'
