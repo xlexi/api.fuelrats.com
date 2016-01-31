@@ -110,3 +110,5 @@ $RECYCLE.BIN/
 views/docs.hbs
 
 test/index.apib
+
+test.apib
